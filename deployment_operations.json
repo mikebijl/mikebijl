@@ -1,0 +1,2309 @@
+[
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/B519435FAA733DE4",
+        "operationId": "B519435FAA733DE4",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.364155Z",
+            "duration": "PT7.89393S",
+            "trackingId": "1e31c41c-7cf5-4019-82d4-1fe5eea0d8bf",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsServiceBus-swedencentral-83ca-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsServiceBus-swedencentral-83ca-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/A3D607DF4FCC5BEF",
+        "operationId": "A3D607DF4FCC5BEF",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.2801413Z",
+            "duration": "PT27.4715744S",
+            "trackingId": "ba1337a4-ae93-4a5c-9da4-d30171483af7",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-MDFCSubEnable-swedencentral-83ca5158-6238-5572-811c-a7aafc0",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MDFCSubEnable-swedencentral-83ca5158-6238-5572-811c-a7aafc0"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/76D081919B19A261",
+        "operationId": "76D081919B19A261",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT6.9148722S",
+            "trackingId": "aa41b329-0207-4dae-9513-316c390926f1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsEventHub-swedencentral-83ca51-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsEventHub-swedencentral-83ca51-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/6D88E82DEEEC69B6",
+        "operationId": "6D88E82DEEEC69B6",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709664Z",
+            "duration": "PT8.2008101S",
+            "trackingId": "235c390a-180a-43a3-b9b6-5efd11916efc",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsStorage-swedencentral-83ca515-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsStorage-swedencentral-83ca515-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/A99251A6970B5A2F",
+        "operationId": "A99251A6970B5A2F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3793992Z",
+            "duration": "PT7.9824179S",
+            "trackingId": "292107f1-4ed8-4baa-9539-bc44f35635d0",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsEventHub-swedencentral-83ca51-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsEventHub-swedencentral-83ca51-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/72597682C7928540",
+        "operationId": "72597682C7928540",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709664Z",
+            "duration": "PT8.7098078S",
+            "trackingId": "a0560238-61ac-45fb-b503-580b4db038af",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsCognitiveServices-swedencentr-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCognitiveServices-swedencentr-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/76FA443284982819",
+        "operationId": "76FA443284982819",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3764818Z",
+            "duration": "PT9.7199134S",
+            "trackingId": "5f7579b4-bddc-494b-a091-c46ccbaa60f7",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsServiceBus-swedencentral-83ca-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsServiceBus-swedencentral-83ca-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/F2212BC53059B840",
+        "operationId": "F2212BC53059B840",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3713761Z",
+            "duration": "PT7.7140619S",
+            "trackingId": "67f625e6-f844-4ce6-9fdf-34f5e5b767ce",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsKeyVaultSup-swedencentral-83c-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsKeyVaultSup-swedencentral-83c-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/67AEE91DF36B101C",
+        "operationId": "67AEE91DF36B101C",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709664Z",
+            "duration": "PT8.2847595S",
+            "trackingId": "952002f2-7f31-4a17-b0be-6a74e472904f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsBotService-swedencentral-83ca-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsBotService-swedencentral-83ca-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/F7E2A0243DC69F0D",
+        "operationId": "F7E2A0243DC69F0D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT7.3259988S",
+            "trackingId": "5dadc308-467b-4fd8-bd01-7d2771e7aa89",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsCosmosDb-swedencentral-83ca51-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCosmosDb-swedencentral-83ca51-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/9C34C678AFE03FE9",
+        "operationId": "9C34C678AFE03FE9",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3793992Z",
+            "duration": "PT7.9720439S",
+            "trackingId": "e5b453c7-9474-4dc4-a59a-19d387d67c2d",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsContainerRegistry-swedencentr-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsContainerRegistry-swedencentr-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/8364607EB18DE03D",
+        "operationId": "8364607EB18DE03D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3764818Z",
+            "duration": "PT7.2918538S",
+            "trackingId": "38a1a7cc-32b2-4ce3-a2d3-b88a1fbd3100",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsContainerInstance-swedencentr-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsContainerInstance-swedencentr-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/E04D5FAF3850B797",
+        "operationId": "E04D5FAF3850B797",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3713761Z",
+            "duration": "PT7.7140619S",
+            "trackingId": "05e26ba0-07c1-46f2-956a-896e5a7fa24c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsDataExplorer-swedencentral-83-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsDataExplorer-swedencentral-83-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/E02E39BD99C97D88",
+        "operationId": "E02E39BD99C97D88",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3713761Z",
+            "duration": "PT8.1378997S",
+            "trackingId": "96cf5787-bb12-40d2-aa5b-941fce618407",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsMySQL-swedencentral-83ca5158--axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsMySQL-swedencentral-83ca5158--axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/1BEF97FA9FB9272E",
+        "operationId": "1BEF97FA9FB9272E",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3834833Z",
+            "duration": "PT9.7129119S",
+            "trackingId": "42b0e977-8fe0-4b4e-8e8f-96560f0c10b3",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsContainerApps-swedencentral-8-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsContainerApps-swedencentral-8-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/F867BB59341B3D79",
+        "operationId": "F867BB59341B3D79",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3517497Z",
+            "duration": "PT6.7868325S",
+            "trackingId": "e1ca5f31-66b4-45a6-b636-0567bb297386",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsCompute-swedencentral-83ca515-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCompute-swedencentral-83ca515-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/F5319F8709339286",
+        "operationId": "F5319F8709339286",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3713761Z",
+            "duration": "PT9.6110365S",
+            "trackingId": "59783018-3192-42cb-912e-b2f49066447b",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsCompute-swedencentral-83ca515-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCompute-swedencentral-83ca515-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/AD45EE2D9B1BAB37",
+        "operationId": "AD45EE2D9B1BAB37",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3793992Z",
+            "duration": "PT7.8621245S",
+            "trackingId": "71da6bf0-1d3b-46f0-bf98-bdb5087d3a84",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsCMK-swedencentral-83ca5158-62-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCMK-swedencentral-83ca5158-62-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/D5D80F17AA73051D",
+        "operationId": "D5D80F17AA73051D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.364155Z",
+            "duration": "PT7.8734232S",
+            "trackingId": "9c5b0fc9-26b8-4b6c-9270-e1f34c6949d4",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsKubernetes-swedencentral-83ca-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsKubernetes-swedencentral-83ca-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/0FECEEE375E85F1F",
+        "operationId": "0FECEEE375E85F1F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3834833Z",
+            "duration": "PT7.2379215S",
+            "trackingId": "d2eb770d-9e82-4da1-860c-4631abace5ad",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsSynapse-swedencentral-83ca515-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsSynapse-swedencentral-83ca515-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/45FF5E0A6B301AC4",
+        "operationId": "45FF5E0A6B301AC4",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709659Z",
+            "duration": "PT9.7300975S",
+            "trackingId": "7afbec1d-59f1-4fbc-8b40-971c94927487",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsContainerInstance-swedencentr-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsContainerInstance-swedencentr-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/9421748C0CB28E66",
+        "operationId": "9421748C0CB28E66",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3764818Z",
+            "duration": "PT7.8816032S",
+            "trackingId": "11f82baf-557f-4f2b-89f1-4918ec0e1d28",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsKeyVaultSup-swedencentral-83c-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsKeyVaultSup-swedencentral-83c-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/9B77D2F86A5705EB",
+        "operationId": "9B77D2F86A5705EB",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3793992Z",
+            "duration": "PT6.6180877S",
+            "trackingId": "67fe857d-a6ac-446c-bf99-c7337a3a8d0d",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsVirtualDesktop-swedencentral--axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsVirtualDesktop-swedencentral--axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/E6C691048C7A59C4",
+        "operationId": "E6C691048C7A59C4",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3713761Z",
+            "duration": "PT6.6090564S",
+            "trackingId": "1425dbe8-b783-4925-97ac-81a0b1bda054",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsSQL-swedencentral-83ca5158-62-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsSQL-swedencentral-83ca5158-62-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/B264EB950AAF50AF",
+        "operationId": "B264EB950AAF50AF",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT7.7744203S",
+            "trackingId": "bd275232-0582-4615-8eae-b022808c944e",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsMachineLearning-swedencentral-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsMachineLearning-swedencentral-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/DC43CF31D9B23F02",
+        "operationId": "DC43CF31D9B23F02",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT7.3103871S",
+            "trackingId": "15407e22-098b-4b7e-b12a-189743d02cdb",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsOpenAI-swedencentral-83ca5158-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsOpenAI-swedencentral-83ca5158-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/6E3357E9C35726C3",
+        "operationId": "6E3357E9C35726C3",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709664Z",
+            "duration": "PT7.6421452S",
+            "trackingId": "80a6f92c-1cc5-4739-9faf-933667c00eab",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsEventGrid-swedencentral-83ca5-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsEventGrid-swedencentral-83ca5-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/0080DEB9CF826AEC",
+        "operationId": "0080DEB9CF826AEC",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT8.0976741S",
+            "trackingId": "2074a9a5-54c8-415a-9670-347936756b60",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsContainerRegistry-swedencentr-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsContainerRegistry-swedencentr-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/80C3D6A7EBCD2C33",
+        "operationId": "80C3D6A7EBCD2C33",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3764818Z",
+            "duration": "PT7.2832292S",
+            "trackingId": "078c0ed1-1616-415f-b364-0a57e23cf9cf",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsSynapse-swedencentral-83ca515-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsSynapse-swedencentral-83ca515-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/E1F356DAF38131F2",
+        "operationId": "E1F356DAF38131F2",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3713761Z",
+            "duration": "PT8.2843498S",
+            "trackingId": "49c7c30f-54b3-4cc8-b7d5-848a238763da",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsAPIM-swedencentral-83ca5158-6-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsAPIM-swedencentral-83ca5158-6-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/4A2CE4140B7A3773",
+        "operationId": "4A2CE4140B7A3773",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709659Z",
+            "duration": "PT6.6785529S",
+            "trackingId": "78242999-3266-41bc-841f-d080126bb02e",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsSQL-swedencentral-83ca5158-62-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsSQL-swedencentral-83ca5158-62-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/60D2DD7F077133D4",
+        "operationId": "60D2DD7F077133D4",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.2801413Z",
+            "duration": "PT8.1353916S",
+            "trackingId": "6e63a287-5b4c-4800-99fd-049a20239329",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsContainerApps-swedencentral-8-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsContainerApps-swedencentral-8-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/2736A50E1BB4FB61",
+        "operationId": "2736A50E1BB4FB61",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709659Z",
+            "duration": "PT8.3087651S",
+            "trackingId": "e5c8ee89-b967-492e-8b3e-ed456d666bc1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsAppService-swedencentral-83ca-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsAppService-swedencentral-83ca-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/BE1841135DC4144F",
+        "operationId": "BE1841135DC4144F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.364155Z",
+            "duration": "PT10.0511839S",
+            "trackingId": "c781851f-98f2-4246-8988-0d23ac49b827",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsEventGrid-swedencentral-83ca5-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsEventGrid-swedencentral-83ca5-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/97316F7893BEFBF8",
+        "operationId": "97316F7893BEFBF8",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT9.6713949S",
+            "trackingId": "816e830b-c926-4042-8f16-712a32163446",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsPostgreSQL-swedencentral-83ca-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsPostgreSQL-swedencentral-83ca-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/8CF49A9559A1FE97",
+        "operationId": "8CF49A9559A1FE97",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3764818Z",
+            "duration": "PT8.4233509S",
+            "trackingId": "1ddf9700-8f2d-4533-96c9-89e89cc308bf",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsAppService-swedencentral-83ca-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsAppService-swedencentral-83ca-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/9CB4109BA18BD256",
+        "operationId": "9CB4109BA18BD256",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3793992Z",
+            "duration": "PT8.1855446S",
+            "trackingId": "286dcb40-8199-4e2a-92d9-d82e9969780a",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsDataFactory-swedencentral-83c-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsDataFactory-swedencentral-83c-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/613A6190B283E4FF",
+        "operationId": "613A6190B283E4FF",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709664Z",
+            "duration": "PT7.7208167S",
+            "trackingId": "e4ba4c70-c8a9-4afa-9cee-084686e7a5d3",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsCMK-swedencentral-83ca5158-62-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCMK-swedencentral-83ca5158-62-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/A5C9454318AABEA2",
+        "operationId": "A5C9454318AABEA2",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3793992Z",
+            "duration": "PT8.0136644S",
+            "trackingId": "7b168677-db72-438e-8ae3-2e7789d13ffe",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsDataFactory-swedencentral-83c-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsDataFactory-swedencentral-83c-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/292AA083F90D8D14",
+        "operationId": "292AA083F90D8D14",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709659Z",
+            "duration": "PT9.7254293S",
+            "trackingId": "f2e7a36b-0c9b-4a17-9ebb-5058faf5156f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsPostgreSQL-swedencentral-83ca-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsPostgreSQL-swedencentral-83ca-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/06A2B2DF5E874680",
+        "operationId": "06A2B2DF5E874680",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3834833Z",
+            "duration": "PT7.7129204S",
+            "trackingId": "e53573bf-5b1b-405e-8253-9b07031c71de",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsMachineLearning-swedencentral-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsMachineLearning-swedencentral-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/2E3E2A334163E00F",
+        "operationId": "2E3E2A334163E00F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709659Z",
+            "duration": "PT7.2660506S",
+            "trackingId": "639892d2-15be-4e08-9dd0-c357eaa828db",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-wsAutomation-swedencentral-83ca-axelz-landingzones",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsAutomation-swedencentral-83ca-axelz-landingzones"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/FAF62C67E84CBC86",
+        "operationId": "FAF62C67E84CBC86",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3517497Z",
+            "duration": "PT8.0309441S",
+            "trackingId": "b9503ac6-2ab3-434a-99a5-ecaaa0690150",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsKubernetes-swedencentral-83ca-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsKubernetes-swedencentral-83ca-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/0E647E6304E0296C",
+        "operationId": "0E647E6304E0296C",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3834833Z",
+            "duration": "PT9.7285372S",
+            "trackingId": "9bc4a4b4-144d-4519-b2e8-500379d9fd10",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsCosmosDb-swedencentral-83ca51-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCosmosDb-swedencentral-83ca51-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/85B80EB7E8393786",
+        "operationId": "85B80EB7E8393786",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3764818Z",
+            "duration": "PT7.8494717S",
+            "trackingId": "845f0c01-b424-489a-bec3-51e4bb7f5d5f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsStorage-swedencentral-83ca515-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsStorage-swedencentral-83ca515-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/567EDE5561AB023D",
+        "operationId": "567EDE5561AB023D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709659Z",
+            "duration": "PT9.5645691S",
+            "trackingId": "14ea9a24-a7ee-455d-a9f1-457f8d09f493",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsOpenAI-swedencentral-83ca5158-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsOpenAI-swedencentral-83ca5158-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/0D738C09DDAE2093",
+        "operationId": "0D738C09DDAE2093",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3834833Z",
+            "duration": "PT9.7331894S",
+            "trackingId": "fb3dbb8c-430c-46b8-a6e0-ad0ce420bfca",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsVirtualDesktop-swedencentral--axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsVirtualDesktop-swedencentral--axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/068809F9FFDE39A7",
+        "operationId": "068809F9FFDE39A7",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3834833Z",
+            "duration": "PT9.7331894S",
+            "trackingId": "f21a7603-f845-4b36-bd9f-b967556e472c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsBotService-swedencentral-83ca-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsBotService-swedencentral-83ca-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/B9297511EC45A0D6",
+        "operationId": "B9297511EC45A0D6",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.364155Z",
+            "duration": "PT8.0669953S",
+            "trackingId": "f28cd0f0-cdec-4db8-a38d-c69d103f0ab6",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsCognitiveServices-swedencentr-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsCognitiveServices-swedencentr-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/60FE5E94226887D1",
+        "operationId": "60FE5E94226887D1",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3709664Z",
+            "duration": "PT7.8941337S",
+            "trackingId": "f0d898b0-a545-467d-bca3-cacb854c4979",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsMySQL-swedencentral-83ca5158--axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsMySQL-swedencentral-83ca5158--axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/D80A28E296E3061F",
+        "operationId": "D80A28E296E3061F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.364155Z",
+            "duration": "PT7.89393S",
+            "trackingId": "3e22c1a7-863b-45d3-9545-51ba6f13c73f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsAutomation-swedencentral-83ca-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsAutomation-swedencentral-83ca-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/226B1F1CDD139821",
+        "operationId": "226B1F1CDD139821",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.3110177Z",
+            "duration": "PT10.1980955S",
+            "trackingId": "c5a92ec4-82d5-4335-a282-fbfb8435bab2",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsDataExplorer-swedencentral-83-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsDataExplorer-swedencentral-83-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/B38120A9A0AF295F",
+        "operationId": "B38120A9A0AF295F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:14.364155Z",
+            "duration": "PT8.4130688S",
+            "trackingId": "831114d5-c524-4040-98b6-2b27aadffbbc",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-wsAPIM-swedencentral-83ca5158-6-axelz-platform",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-wsAPIM-swedencentral-83ca5158-6-axelz-platform"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/5B6B110AD8647A5C",
+        "operationId": "5B6B110AD8647A5C",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT13.9848048S",
+            "trackingId": "f66acf09-723a-4dc8-82d5-a1863cbb62ab",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-SqlAuditRbac2-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SqlAuditRbac2-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/A458BEC0A8EA90CB",
+        "operationId": "A458BEC0A8EA90CB",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:12.5347128Z",
+            "duration": "PT5.36762S",
+            "trackingId": "78f80103-bcb3-4bb7-8db8-cbbc987437ae",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-SqlAuditRbac1-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SqlAuditRbac1-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/159947DC3006B2EC",
+        "operationId": "159947DC3006B2EC",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT13.6048354S",
+            "trackingId": "6e6b86ad-8d13-43ce-b8b8-861930cf8941",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-DataCollectionRuleChangeTrackingLite-swedencentral-83ca5158-",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-DataCollectionRuleChangeTrackingLite-swedencentral-83ca5158-"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/7FAB5FC77FBFDF1F",
+        "operationId": "7FAB5FC77FBFDF1F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT8.0005246S",
+            "trackingId": "38f70dc4-c884-4f60-a071-b5468dac3740",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-ResourceDiagnostics-swedencentral-83ca5158-6238-5572-811c-a7",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ResourceDiagnostics-swedencentral-83ca5158-6238-5572-811c-a7"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/C49924E35B79DAE8",
+        "operationId": "C49924E35B79DAE8",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT6.5528266S",
+            "trackingId": "fee0929b-c011-477f-8299-9bc616841c1c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-ASB-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ASB-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/43E9A0004F97D650",
+        "operationId": "43E9A0004F97D650",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT8.9603709S",
+            "trackingId": "079964c8-3942-4c2e-970f-9647d92a940a",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-DataCollectionRuleVmInsightsLite-swedencentral-83ca5158-6238",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-DataCollectionRuleVmInsightsLite-swedencentral-83ca5158-6238"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/1EB19C8E1840B6D5",
+        "operationId": "1EB19C8E1840B6D5",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT4.3219098S",
+            "trackingId": "de032d72-dbb7-4fb8-bc60-daa351ac8ded",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-sandboxes/providers/Microsoft.Resources/deployments/axelz-sandboxesalz-DiagSettingsMGs-swedencentral-83ca5158-6238-5",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelz-sandboxesalz-DiagSettingsMGs-swedencentral-83ca5158-6238-5"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/3CBD5FC9D231230B",
+        "operationId": "3CBD5FC9D231230B",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT4.1566912S",
+            "trackingId": "54b7603b-0293-4eb1-bd53-5c644c06c042",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/axelzalz-DiagSettingsMGs-swedencentral-83ca5158-6238-5572-811c-a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelzalz-DiagSettingsMGs-swedencentral-83ca5158-6238-5572-811c-a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/FC9F9B9099E68896",
+        "operationId": "FC9F9B9099E68896",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT11.1973794S",
+            "trackingId": "50561036-6ab5-40b0-9c3c-397054ac190e",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-UserAssignedIdentityLite-swedencentral-83ca5158-6238-557",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-UserAssignedIdentityLite-swedencentral-83ca5158-6238-557"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/8BA64403F7912D35",
+        "operationId": "8BA64403F7912D35",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT8.7811134S",
+            "trackingId": "d5c488e4-182c-474a-adf6-b9f7a9549e0a",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-ActivityDiagnostics-swedencentral-83ca5158-6238-5572-811c-a7",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ActivityDiagnostics-swedencentral-83ca5158-6238-5572-811c-a7"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/0A229DF776DE219F",
+        "operationId": "0A229DF776DE219F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT34.0618979S",
+            "trackingId": "493b8610-325b-430e-ac6f-a309fea46261",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-decommissioned/providers/Microsoft.Resources/deployments/axelz-decommissionedalz-DiagSettingsMGs-swedencentral-83ca5158-6",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelz-decommissionedalz-DiagSettingsMGs-swedencentral-83ca5158-6"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/FE4F99B3A9A7A99E",
+        "operationId": "FE4F99B3A9A7A99E",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT7.0263637S",
+            "trackingId": "25ecf6d3-0978-44f6-a02a-eaeba95f5d73",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-SqlAudit-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SqlAudit-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/C1CA29F9E98F86A8",
+        "operationId": "C1CA29F9E98F86A8",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT7.7189381S",
+            "trackingId": "ab06a876-3906-4ba5-8a33-518423c2a167",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-ASC-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ASC-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/6CB51C21EBC93399",
+        "operationId": "6CB51C21EBC93399",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT7.7345669S",
+            "trackingId": "c3937b6d-caaa-49b5-a9a8-a262fe2b5fb0",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/axelz-platformalz-DiagSettingsMGs-swedencentral-83ca5158-6238-55",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelz-platformalz-DiagSettingsMGs-swedencentral-83ca5158-6238-55"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/74DFAAA931FE7793",
+        "operationId": "74DFAAA931FE7793",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT4.8497071S",
+            "trackingId": "d09e9edf-a03e-458b-8786-e6fae65c1a1c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-online/providers/Microsoft.Resources/deployments/axelz-onlinealz-DiagSettingsMGs-swedencentral-83ca5158-6238-5572",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelz-onlinealz-DiagSettingsMGs-swedencentral-83ca5158-6238-5572"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/C5C4E4160DFE9125",
+        "operationId": "C5C4E4160DFE9125",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT6.772077S",
+            "trackingId": "e0435eef-9009-4401-b3b7-a8718510adeb",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-corp/providers/Microsoft.Resources/deployments/axelz-corpalz-DiagSettingsMGs-swedencentral-83ca5158-6238-5572-8",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelz-corpalz-DiagSettingsMGs-swedencentral-83ca5158-6238-5572-8"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/ABAAFD8AE8E9B7E7",
+        "operationId": "ABAAFD8AE8E9B7E7",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:05.3665577Z",
+            "duration": "PT7.7345669S",
+            "trackingId": "ae0523b0-23d5-4267-ab22-7e51777bdd4f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/axelz-landingzonesalz-DiagSettingsMGs-swedencentral-83ca5158-623",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "axelz-landingzonesalz-DiagSettingsMGs-swedencentral-83ca5158-623"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/7516DF077706C58E",
+        "operationId": "7516DF077706C58E",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT29.4822567S",
+            "trackingId": "7bb06ff6-00b4-4594-8b23-ba119bc7b7bc",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/subscriptions/e9e38ad4-4b63-4bf4-8a4c-c4b8a694168e/providers/Microsoft.Resources/deployments/alz-MonitoringLite-swedencentral-83ca5158-6238-5572-811c-a7aafc6",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MonitoringLite-swedencentral-83ca5158-6238-5572-811c-a7aafc6"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/82738338912206F0",
+        "operationId": "82738338912206F0",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT5.2694657S",
+            "trackingId": "a0d275ba-83b7-433d-9867-61a7e7135934",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-corp/providers/Microsoft.Resources/deployments/alz-PipOnNic-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-PipOnNic-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/ADAA942295845EE3",
+        "operationId": "ADAA942295845EE3",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5792594Z",
+            "duration": "PT7.6264584S",
+            "trackingId": "be66aaf1-ce98-4171-92a0-7006ffb5a447",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-SqlThreat-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SqlThreat-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/AF60A41C4FF56DC3",
+        "operationId": "AF60A41C4FF56DC3",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5792594Z",
+            "duration": "PT7.3338821S",
+            "trackingId": "bc6259c0-8dcf-4cd4-b883-bdcad2178569",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-MDEndpoints-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MDEndpoints-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/4C686F724EE54494",
+        "operationId": "4C686F724EE54494",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT5.0197989S",
+            "trackingId": "044be457-eb70-43aa-9e1c-052797605622",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-ZoneResilient-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ZoneResilient-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/5411742DAA066166",
+        "operationId": "5411742DAA066166",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5677307Z",
+            "duration": "PT5.6110583S",
+            "trackingId": "ea33e8f5-9ffa-4b85-82bb-d4d5160dd4b1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-IPFwd-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-IPFwd-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/B8531F34719E88FD",
+        "operationId": "B8531F34719E88FD",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.56666Z",
+            "duration": "PT6.8229524S",
+            "trackingId": "d005d2a1-7cac-4f3e-8628-0fa3f268bdd7",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-StorageHttps-swedencentral-83ca5158-6238-5572-811c-a7aafc6f5",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-StorageHttps-swedencentral-83ca5158-6238-5572-811c-a7aafc6f5"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/3E03FCD229C4B840",
+        "operationId": "3E03FCD229C4B840",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT10.9525792S",
+            "trackingId": "2363200f-4fc7-45c9-8e2e-28d20a62d307",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-SqlEncrypt-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SqlEncrypt-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/644681B833E1AAAC",
+        "operationId": "644681B833E1AAAC",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5677307Z",
+            "duration": "PT5.3962391S",
+            "trackingId": "ea10b749-4dc3-4c72-a829-97b0136d6ff1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-KvGuardrails-swedencentral-83ca5158-6238-5572-811c-a7aafc6f5",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-KvGuardrails-swedencentral-83ca5158-6238-5572-811c-a7aafc6f5"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/C3AE60FC70C886E2",
+        "operationId": "C3AE60FC70C886E2",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.56666Z",
+            "duration": "PT5.6382666S",
+            "trackingId": "e7eb22a1-c80a-49b1-ace2-daa6e3735fd1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-corp/providers/Microsoft.Resources/deployments/alz-DenyHybridNetworking-swedencentral-83ca5158-6238-5572-811c-a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-DenyHybridNetworking-swedencentral-83ca5158-6238-5572-811c-a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/17486426E102DA8F",
+        "operationId": "17486426E102DA8F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660982Z",
+            "duration": "PT9.0145338S",
+            "trackingId": "72eb987b-751b-4521-89cc-5d72b233a4a6",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-AzureUpdateManager-swedencentral-83ca5158-6238-5572-811c-a7a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzureUpdateManager-swedencentral-83ca5158-6238-5572-811c-a7a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/AC7FEBFCB7C8BAB7",
+        "operationId": "AC7FEBFCB7C8BAB7",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5792594Z",
+            "duration": "PT6.1579881S",
+            "trackingId": "ae8d08fd-f75a-4fa8-becf-38c63055d4fd",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-NoUnmanagedDiskResource-swedencentral-83ca5158-6238-5572-811",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-NoUnmanagedDiskResource-swedencentral-83ca5158-6238-5572-811"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/13065D2563EE1D32",
+        "operationId": "13065D2563EE1D32",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660982Z",
+            "duration": "PT35.4355204S",
+            "trackingId": "1b00d7ad-ea65-454f-8498-a67dd37fed9c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-MonitorPolicyLite-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MonitorPolicyLite-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/C25D6128AC593580",
+        "operationId": "C25D6128AC593580",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.56666Z",
+            "duration": "PT5.0763766S",
+            "trackingId": "623b9566-eb7c-4842-b6fd-ad9232634545",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-SubnetNsg-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SubnetNsg-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/5AE3FD8B5698A3FE",
+        "operationId": "5AE3FD8B5698A3FE",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5677307Z",
+            "duration": "PT7.9398372S",
+            "trackingId": "04d76414-6955-4697-8dd8-ac4234fc9e0b",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-TLSSSL-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-TLSSSL-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/549BF85951A9FE8B",
+        "operationId": "549BF85951A9FE8B",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5677307Z",
+            "duration": "PT5.0129663S",
+            "trackingId": "c4f8a3a3-d4be-4b3b-bab8-f1fd2b91e08d",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-pvtSubnet-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-pvtSubnet-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/AA762260B5949878",
+        "operationId": "AA762260B5949878",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5164093Z",
+            "duration": "PT5.3896236S",
+            "trackingId": "6438db15-fb7e-484c-a380-8094c4cf5d77",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-MgmtPorts-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MgmtPorts-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/2094F6FD7DCC00ED",
+        "operationId": "2094F6FD7DCC00ED",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660982Z",
+            "duration": "PT7.7848921S",
+            "trackingId": "6999d235-bce4-4d4b-af13-fa8e7bbcaf89",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AzVmMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzVmMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/31E0E0C242A5341A",
+        "operationId": "31E0E0C242A5341A",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT8.6055519S",
+            "trackingId": "b7378ac2-d253-47e3-af4f-6863796d76fb",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AzVmHybridMonitor-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzVmHybridMonitor-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/30C58360C138E9C1",
+        "operationId": "30C58360C138E9C1",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT8.5138598S",
+            "trackingId": "23f411dd-ce0a-4823-b55e-79b0a67139e7",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AzVmssMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzVmssMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/087B0450DFA5E68B",
+        "operationId": "087B0450DFA5E68B",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5164093Z",
+            "duration": "PT8.9480489S",
+            "trackingId": "5c2e3bb5-adec-4039-8612-5e4df04eeb7a",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AzBackupLz-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzBackupLz-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/AFE60DE12D63667F",
+        "operationId": "AFE60DE12D63667F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5164093Z",
+            "duration": "PT8.6547317S",
+            "trackingId": "5196322b-09b0-44bf-aea2-4182ff9ce84d",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-ChangeTracking-VM-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ChangeTracking-VM-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/ADFC2389D744D1A7",
+        "operationId": "ADFC2389D744D1A7",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5792594Z",
+            "duration": "PT5.1310787S",
+            "trackingId": "66f489f7-441c-4f5b-96f9-06f69fe8167c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AksPrivEsc-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AksPrivEsc-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/ADF07888AE605EC4",
+        "operationId": "ADF07888AE605EC4",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5792594Z",
+            "duration": "PT7.7717309S",
+            "trackingId": "8588d4ca-5922-429e-8d8c-e86d8f34536f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AzureUpdateManager-swedencentral-83ca5158-6238-5572-811c-a7a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzureUpdateManager-swedencentral-83ca5158-6238-5572-811c-a7a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/2808E4CD3FEEF149",
+        "operationId": "2808E4CD3FEEF149",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT5.2103837S",
+            "trackingId": "1003a850-8585-409b-8a34-4919f68e228f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-ResourceRGLoc-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ResourceRGLoc-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/4E18258A8B16BF62",
+        "operationId": "4E18258A8B16BF62",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT4.8588567S",
+            "trackingId": "380917c8-c0f0-4587-9fe0-f7b424e9c922",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-MgmtIdentity-swedencentral-83ca5158-6238-5572-811c-a7aafc6f5",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MgmtIdentity-swedencentral-83ca5158-6238-5572-811c-a7aafc6f5"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/FDD7B4D13E89FFC6",
+        "operationId": "FDD7B4D13E89FFC6",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5509581Z",
+            "duration": "PT5.147799S",
+            "trackingId": "8502683a-9528-435a-8dd3-37194176c7a2",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-Backup-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-Backup-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/EFF1BF83DA57393D",
+        "operationId": "EFF1BF83DA57393D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5509581Z",
+            "duration": "PT6.8882512S",
+            "trackingId": "af2098c6-28e2-4044-92d8-f6032126a4d9",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-corp/providers/Microsoft.Resources/deployments/alz-PEndpoint-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-PEndpoint-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/E4ED2DAD6095C9BF",
+        "operationId": "E4ED2DAD6095C9BF",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5164093Z",
+            "duration": "PT3.8543302S",
+            "trackingId": "45d736b3-115a-45ba-a1ff-b34d16d1dc59",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AppGwWaf-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AppGwWaf-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/64032C33958E332A",
+        "operationId": "64032C33958E332A",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5677307Z",
+            "duration": "PT7.1526775S",
+            "trackingId": "b262f204-e279-4c65-b72a-b93aaa0ab51c",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-decommissioned/providers/Microsoft.Resources/deployments/alz-DecommissionPol-swedencentral-83ca5158-6238-5572-811c-a7aafc",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-DecommissionPol-swedencentral-83ca5158-6238-5572-811c-a7aafc"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/31AE34EFA36ACDF1",
+        "operationId": "31AE34EFA36ACDF1",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT8.168953S",
+            "trackingId": "922ea7d9-7e2c-487c-9734-3f37c1dbcd73",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-ChangeTracking-VM-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ChangeTracking-VM-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/3500332B93E56841",
+        "operationId": "3500332B93E56841",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT7.3475524S",
+            "trackingId": "26dc9e37-a466-45f1-8fec-3d6c8894c316",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-AtpSqlDb-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AtpSqlDb-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/7820885649E19AB3",
+        "operationId": "7820885649E19AB3",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT10.0194593S",
+            "trackingId": "9b2dceb1-8c9a-496d-a33a-9cb997a6b9b3",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-ChangeTracking-VMSS-swedencentral-83ca5158-6238-5572-811c-a7",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ChangeTracking-VMSS-swedencentral-83ca5158-6238-5572-811c-a7"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/432146859BAFFFED",
+        "operationId": "432146859BAFFFED",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT4.9213569S",
+            "trackingId": "810f1ee0-3732-4193-aed7-858d2c7ea837",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-DenyActionDeleteUAMI-swedencentral-83ca5158-6238-5572-811c-a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-DenyActionDeleteUAMI-swedencentral-83ca5158-6238-5572-811c-a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/AED7E71E6C8CA58B",
+        "operationId": "AED7E71E6C8CA58B",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5792594Z",
+            "duration": "PT4.9545663S",
+            "trackingId": "69c4da53-f956-4418-ae96-3d62d41a545b",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AksPrivileged-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AksPrivileged-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/6466707143DEF47A",
+        "operationId": "6466707143DEF47A",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5677307Z",
+            "duration": "PT6.5483569S",
+            "trackingId": "7d1107a3-a4bb-428b-9b4c-f24d620a788f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-pvtSubnet-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-pvtSubnet-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/2AAB154628DADE8A",
+        "operationId": "2AAB154628DADE8A",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT8.1543277S",
+            "trackingId": "e419aeea-2a3c-4a09-a5ca-c712af7d66ae",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-ChangeTracking-VMArc-swedencentral-83ca5158-6238-5572-811c-a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ChangeTracking-VMArc-swedencentral-83ca5158-6238-5572-811c-a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/684C70A409E230E5",
+        "operationId": "684C70A409E230E5",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT3.8201171S",
+            "trackingId": "0b38ef9d-2291-4b67-a2f2-30dcc944b1e0",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-sandboxes/providers/Microsoft.Resources/deployments/alz-SandboxPol-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SandboxPol-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/BB15886089FA4951",
+        "operationId": "BB15886089FA4951",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.56666Z",
+            "duration": "PT7.935814S",
+            "trackingId": "3877a41e-b3f4-4203-acbd-4169c1450067",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-Acsb-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-Acsb-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/4F33FCD3BBE2F60F",
+        "operationId": "4F33FCD3BBE2F60F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT28M10.0059831S",
+            "trackingId": "15eec307-0d9e-45ff-a5e6-3d95f7598a8a",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-AzVmHybridMonitor-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzVmHybridMonitor-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/21A7471BFC1E87A1",
+        "operationId": "21A7471BFC1E87A1",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT5.1377307S",
+            "trackingId": "aa3308e6-2019-47c0-88c4-de8c37ba655d",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-SubnetNsgIdentity-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-SubnetNsgIdentity-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/BC172268C6E4C80E",
+        "operationId": "BC172268C6E4C80E",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.56666Z",
+            "duration": "PT5.7599845S",
+            "trackingId": "d0f68830-2d85-4410-b792-08ccb1216c74",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-CostOptimization-swedencentral-83ca5158-6238-5572-811c-a7aaf",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-CostOptimization-swedencentral-83ca5158-6238-5572-811c-a7aaf"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/9AB153A7988666E0",
+        "operationId": "9AB153A7988666E0",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT9.074187S",
+            "trackingId": "e5503fba-7a20-4066-87a9-28d61c31f6e1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-ChangeTracking-VMArc-swedencentral-83ca5158-6238-5572-811c-a",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ChangeTracking-VMArc-swedencentral-83ca5158-6238-5572-811c-a"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/35C4D36646481E1A",
+        "operationId": "35C4D36646481E1A",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5655891Z",
+            "duration": "PT8.2002493S",
+            "trackingId": "003aae12-e4fb-4e11-b578-df6664da898b",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-AzVmssMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzVmssMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/A233AEB413E66E0D",
+        "operationId": "A233AEB413E66E0D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT9.2116863S",
+            "trackingId": "945f1c9c-e4c8-4fef-9e57-69dbba55738f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-AtpOssDb-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AtpOssDb-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/F2372BB6856C271B",
+        "operationId": "F2372BB6856C271B",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5509581Z",
+            "duration": "PT5.4459573S",
+            "trackingId": "f3eef59a-5b9e-4e6a-b72a-2d2f6a68fc68",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-landingzones/providers/Microsoft.Resources/deployments/alz-AksHttps-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AksHttps-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/090A8C2FA9E0BFCD",
+        "operationId": "090A8C2FA9E0BFCD",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660982Z",
+            "duration": "PT5.1947427S",
+            "trackingId": "0bc8e730-9d35-4a27-af35-bd04ca4ce539",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-TrustedLaunch-swedencentral-83ca5158-6238-5572-811c-a7aafc6f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-TrustedLaunch-swedencentral-83ca5158-6238-5572-811c-a7aafc6f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/7E6AC7C5A13942E5",
+        "operationId": "7E6AC7C5A13942E5",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5662432Z",
+            "duration": "PT7.8825881S",
+            "trackingId": "1345592e-b4c4-47ed-a177-007e883d03bd",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-ChangeTracking-VMSS-swedencentral-83ca5158-6238-5572-811c-a7",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-ChangeTracking-VMSS-swedencentral-83ca5158-6238-5572-811c-a7"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/BA8B89B81050E473",
+        "operationId": "BA8B89B81050E473",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.56666Z",
+            "duration": "PT5.174931S",
+            "trackingId": "b5e832cf-279f-4c22-96eb-898d23cefe78",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-corp/providers/Microsoft.Resources/deployments/alz-AuditPeDnsZones-swedencentral-83ca5158-6238-5572-811c-a7aafc",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AuditPeDnsZones-swedencentral-83ca5158-6238-5572-811c-a7aafc"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/2547F680E332274D",
+        "operationId": "2547F680E332274D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT9.1368516S",
+            "trackingId": "ecea4a74-fa15-4cae-aefb-72ea87421511",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-AzVmMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzVmMonitor-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/1C4AA760D72123BC",
+        "operationId": "1C4AA760D72123BC",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660982Z",
+            "duration": "PT5.3158215S",
+            "trackingId": "64c8a917-b16b-43b9-bd70-113432b64dc3",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-BackupPlat-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-BackupPlat-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54f"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/26A626F6195C5B8D",
+        "operationId": "26A626F6195C5B8D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660789Z",
+            "duration": "PT8.2379348S",
+            "trackingId": "866c531f-8e42-4e2e-83a5-e3196f2684ac",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-MDEndpointsAMA-swedencentral-83ca5158-6238-5572-811c-a7aafc6",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MDEndpointsAMA-swedencentral-83ca5158-6238-5572-811c-a7aafc6"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/17C634976B26C140",
+        "operationId": "17C634976B26C140",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:46:35.5660982Z",
+            "duration": "PT5.2845694S",
+            "trackingId": "2dbe8d6f-6569-4cd0-8972-8f8acef6c451",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-KvGuardrailsPlat-swedencentral-83ca5158-6238-5572-811c-a7aaf",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-KvGuardrailsPlat-swedencentral-83ca5158-6238-5572-811c-a7aaf"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/256D946505056947",
+        "operationId": "256D946505056947",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT28M1.2343064S",
+            "trackingId": "fdf9a736-10cf-4c5a-b0bb-e98eea3151d8",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-prerequisites",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-prerequisites"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/120EC095EEE3EC5D",
+        "operationId": "120EC095EEE3EC5D",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT1M44.5752899S",
+            "trackingId": "43d591d6-ebab-4954-9f7a-389c075a8249",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-PolicySet-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-PolicySet-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/FB7953BD17530E7B",
+        "operationId": "FB7953BD17530E7B",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:20:05.088423Z",
+            "duration": "PT8.6518816S",
+            "trackingId": "581f436a-86a2-4168-ba1e-e17ecb0fc8d1",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-AzBackupIdentity-swedencentral-83ca5158-6238-5572-811c-a7aaf",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-AzBackupIdentity-swedencentral-83ca5158-6238-5572-811c-a7aaf"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/04BEFD771F968A9C",
+        "operationId": "04BEFD771F968A9C",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT1M34.4410445S",
+            "trackingId": "67fb26ea-0179-4147-af0f-26e35f90b51f",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-Policy-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-Policy-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/268977599B6C23ED",
+        "operationId": "268977599B6C23ED",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:19:54.7125836Z",
+            "duration": "PT5.4983333S",
+            "trackingId": "e910f003-7364-4011-a859-e3604b78e678",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-NoClassicResource-swedencentral-83ca5158-6238-5572-811c-a7aa",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-NoClassicResource-swedencentral-83ca5158-6238-5572-811c-a7aa"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/A501955DAC608963",
+        "operationId": "A501955DAC608963",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:19:54.7125836Z",
+            "duration": "PT10.2352719S",
+            "trackingId": "d62a7977-e260-4636-be52-d33d57456622",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz-platform/providers/Microsoft.Resources/deployments/alz-PlatformSubLite-swedencentral-83ca5158-6238-5572-811c-a7aafc",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-PlatformSubLite-swedencentral-83ca5158-6238-5572-811c-a7aafc"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/4CB03A4182A6226F",
+        "operationId": "4CB03A4182A6226F",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:19:54.7125836Z",
+            "duration": "PT7.8511239S",
+            "trackingId": "14dcf0f0-9d7a-456b-b078-c6b208552072",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Management/managementGroups/axelz/providers/Microsoft.Resources/deployments/alz-RoleDefs-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-RoleDefs-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/74A3157B1EA7DEE2",
+        "operationId": "74A3157B1EA7DEE2",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT1M20.3243412S",
+            "trackingId": "ed9f432f-a990-43da-8729-80bd710e8712",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Resources/deployments/alz-MgsLite-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "alz-MgsLite-swedencentral-83ca5158-6238-5572-811c-a7aafc6f54fb"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/4C5310CEA546E36E",
+        "operationId": "4C5310CEA546E36E",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT5.1291566S",
+            "trackingId": "3c63cdcc-0f33-4d78-8cf4-beb59bc53299",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Resources/deployments/pid-35c1ce02-165f-43b2-8d3a-fc68a04b802a-gt5gfku4ns2dw",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "pid-35c1ce02-165f-43b2-8d3a-fc68a04b802a-gt5gfku4ns2dw"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/D4E4B11CA574BFFB",
+        "operationId": "D4E4B11CA574BFFB",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT4.5041635S",
+            "trackingId": "69ccb87f-78e8-46d8-bd36-45cc4f4a6590",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Resources/deployments/pid-5f0e5693-3998-4ae2-8115-ee96e38dac62-zmxqumqprqqky-ztnp1",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "pid-5f0e5693-3998-4ae2-8115-ee96e38dac62-zmxqumqprqqky-ztnp1"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/3F32FC771BFC5FFC",
+        "operationId": "3F32FC771BFC5FFC",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT3.8753207S",
+            "trackingId": "891865bc-db7b-4588-8a5f-f0a145c32b22",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Resources/deployments/pid-35c42e79-00b3-42eb-a9ac-e542953efb3c-gt5gfku4ns2dw",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "pid-35c42e79-00b3-42eb-a9ac-e542953efb3c-gt5gfku4ns2dw"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/EF00C30DE0EC6D9E",
+        "operationId": "EF00C30DE0EC6D9E",
+        "properties": {
+            "provisioningOperation": "Create",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:18:34.1364543Z",
+            "duration": "PT3.6331079S",
+            "trackingId": "20b56f32-51f3-4b52-99d4-037c13de91d9",
+            "statusCode": "OK",
+            "targetResource": {
+                "id": "/providers/Microsoft.Resources/deployments/pid-b35a8452-8a67-49f9-b1a9-1aee3c1a13c2-gt5gfku4ns2dw",
+                "resourceType": "Microsoft.Resources/deployments",
+                "resourceName": "pid-b35a8452-8a67-49f9-b1a9-1aee3c1a13c2-gt5gfku4ns2dw"
+            }
+        }
+    },
+    {
+        "id": "/providers/Microsoft.Resources/deployments/NoMarketplace-20250507181828/operations/08584549721731137474",
+        "operationId": "08584549721731137474",
+        "properties": {
+            "provisioningOperation": "EvaluateDeploymentOutput",
+            "provisioningState": "Succeeded",
+            "timestamp": "2025-05-07T16:47:41.9310505Z",
+            "duration": "PT0.9456725S",
+            "trackingId": "72c53f6f-c993-496d-becb-0e9d2771162d",
+            "statusCode": "OK"
+        }
+    }
+]
